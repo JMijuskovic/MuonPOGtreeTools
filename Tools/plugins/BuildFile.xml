@@ -10,8 +10,8 @@
 <use name="PhysicsTools/PatAlgos"/>
 <use name="CommonTools/CandUtils"/>
 
-<library name="MuonPOGToolsPlugin" file="*.cc">
-   <use name="MuonPOG/Tools"/>
+<library name="MuonPOGtreeToolsPlugin" file="*.cc">
+   <use name="MuonPOGtreeTools/Tools"/>
    <use name="root"/>
    <use name="rootminuit"/>
    <use name="clhep"/>
